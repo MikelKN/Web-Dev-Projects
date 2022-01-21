@@ -1,0 +1,33 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 5%;
+}
+/* this is how we comment in CSS*/
+h1{
+  color: #54436B;
+  }
+h1:hover{
+  background-color: gold;
+}
+h3 {
+  color: #66BFBF;
+  }
+/***********************************class selector*************************/
+.Angela_name {
+  background-color: #FF3D68;
+}
+.Mikel_name {
+  background-color: #50CB93;
+}
+.name_color:hover {
+  color: #CD113B;
+}
+
+/***********************************ID selector*************************/
